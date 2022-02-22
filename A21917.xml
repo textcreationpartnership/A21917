@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters from the lords of Her Maiesties most honourable Priuie Counsell for the furnishing and supplying of horses in all townes where the postes are established, for the reliefe of the postes there, and furtherance of Her Maiesties seruice directed to all maiors, shiriffes, iustices of the peace, bailifes, conestables, hedborowes and all other Her Maiesties officers ...</title>
+            <author>England and Wales. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1596</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21917</idno>
+            <idno type="STC">STC 8248</idno>
+            <idno type="STC">ESTC S3235</idno>
+            <idno type="EEBO-CITATION">33143206</idno>
+            <idno type="OCLC">ocm 33143206</idno>
+            <idno type="VID">28294</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28294)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:98)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters from the lords of Her Maiesties most honourable Priuie Counsell for the furnishing and supplying of horses in all townes where the postes are established, for the reliefe of the postes there, and furtherance of Her Maiesties seruice directed to all maiors, shiriffes, iustices of the peace, bailifes, conestables, hedborowes and all other Her Maiesties officers ...</title>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, Printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno. 1596.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy of two letters, dated 11 April, and 20 April, 1596.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Postal service --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Broadsides --  London (England) --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:28294:1"/>
+            <!-- PDF PAGE 19 -->
+            <head>
+               <g ref="char:leaf">❧</g> Letters from the Lords of her Maieſties moſt honourable priuie Counſell for the furniſhing and ſupplying of Horſes in all Townes where the Poſtes are eſtabliſhed, for the relief of the Poſtes there, and fur<g ref="char:EOLhyphen"/>therance of her Maieſties ſeruice, Directed <hi>To all Maiors, Shiriffes, Iustices of the Peace, Bailifes, Conestables, Hed</hi>
+               <g ref="char:EOLhyphen"/>borowes and all other her Maieſties officers, Miniſters, and louing Subjects, to whom it may or ought to appertaine, and to euery of them.</head>
+            <head type="sub">The due execution whereof is alſo ſpecially recommended to the Lord Lieutenant of the Shire, and his ſeuerall Deputies.</head>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">F</seg>Oraſmuch as ſpecial and extraordinary occaſions are ſundry times offered for the affaires of the State and ſeruice of her Maieſtie to ſend and diſpatch in Poſt, both by Packets and otherwiſe oftener and in greater numbers, then that the ordina<g ref="char:EOLhyphen"/>ry prouiſion of the Poſt-maſters in their ſeuerall Stages is able to perfourme, with the expedition requiſite and at their handes required, as by their ſeuerall and ſundry complaints to their Maſter and Comptroller generall appeareth, and by him hath bene likewiſe intimated unto vs; Theſe are therefore to will and require you, and in her Maieſties name to charge and commaund you and euery of you whom this may or ought to concerne, to be ayding and aſſiſting with your beſt countenances, authorities, and powers vnto the Poſt of that Stage when and as often as in her Maieſties behalfe he or any fro<g ref="char:cmbAbbrStroke">̄</g> him ſhall repaire vnto you, And for his better reliefe to take preſent order and the like from time to time here<g ref="char:EOLhyphen"/>after as the Seruice ſhall require, that as well within that Towne or Stage where the Poſt abideth, as from other places of the Countreys next adioyning within Liberties and without, the Coneſtables and other Officers prouide, take up, and bring in, ſome tenne or twentie able and ſufficient horſes, (or ſome ſuch number more or leſſe, as the ſeruice ſhall import) with furniture conuenient to be there from ſixe dayes to ſix dayes, at their Owners charges held ready and at the direction of the Poſt of the place for the better per<g ref="char:EOLhyphen"/>formance of his duetie aſwell touching the Packet (his peculier charge) if his owne horſes be formerly im<g ref="char:EOLhyphen"/>ployed, as alſo for the ſpeedier horſeing a way of ſuch ſpecial perſons as in her Maieſties ſeruice ſhall ride in Poſt. Vnto the Owners of which horſes, the ſaid Poſt ſhall allow and pay from time to time ſuch rates and prices as he taketh for the hire of his owne. Hereof we require you and euery of you not to faue, as you will anſwere the contempt at your vtter moſt perill.</p>
+               <closer>
+                  <dateline>From the Court at Greenwich <date>the 11. of April 1596.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>Jo. Puckering.</item>
+                        <item>R. Eſſex.</item>
+                        <item>H. Hunſdon.</item>
+                        <item>W. Cobham.</item>
+                        <item>Tho. Buckhurst.</item>
+                        <item>R. Cecile.</item>
+                        <item>Jo. Forteſcu.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas we wrote our former Letters of the 11. of this moneth for the furtherance of her Ma<g ref="char:EOLhyphen"/>ieſties ſeruice that horſes ſhould be ſupplied from out of the Townes, and Stages where Poſtes are layed, and Countreys adjoyning to the reliefe of the ſaid Poſtes, whoſe ordinarie furniture oftentimes doth not ſuffice, we haue thought it eftſoones very requiſite, to wil and require you, And in her Maieſties name more ſtreitly to commaund you and euery of you, to put our ſaid former Letters in due execution. Adding withall for the better contentment of the Owners of ſuch horſes ſo appointed to ſerue in their turnes, that no man whatſoeuer be ſuffred to runne or ride further then from one Stage to the next Stage without changing; And the rider to pay or ſatiſfie for the hire of his horſe or horſes aforehand, and at the firſt deliuery of them. And if any ſhall herein diſobey or contend, to ſignifie his name vnto vs. Requiring you and euery of you by the Coneſtables and other Offi<g ref="char:EOLhyphen"/>cers to take note in writing of the names of all men keeping horſes within the Townes, villages, and coun<g ref="char:EOLhyphen"/>trey next adjoyning to any Stage where the Poſts are placed, the better thereby to put in execution the true purpoſe and entent of our former Letters for the preſent occaſion of her Maieſties ſeruice and the affaires of the Realme, at the intimation and requeſts of the Poſts in their ſeuerall charges; wherein if any default ſhall be found by cunning, negligence, or other abuſe, in the Coneſtables, Officers, or owners of any horſes; to ſignifie the ſame to the Lord Lieutenant of the Shire, or his deputie or deputies, or (if neede be) to any of vs; or to <hi>M. Iohn Stanhope</hi> the Maſter or Comptroller generall of al her Highneſſe Poſtes. And hereof we eftſoones require you to haue that care that to your ſeuerall dueties and places belongeth, and as you tender her Maieſties ſeruice, and the ſtate of the Realme.</p>
+               <closer>
+                  <dateline>From the Court at Greenewich <date>the 20. of April 1596.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>John Puckering.</item>
+                        <item>W. Cobham.</item>
+                        <item>R. Cecill.</item>
+                        <item>W. Burghley.</item>
+                        <item>T. Buckhurst.</item>
+                        <item>Jo. Forteſcue.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by the deputies of Chriſtopher Barker, Printer to the Queenes moſt excel<g ref="char:EOLhyphen"/>lent Maieſtie. ANNO. 1596.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
